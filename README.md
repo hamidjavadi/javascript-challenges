@@ -25,3 +25,7 @@ or
 ```bash
 yarn test
 ```
+
+### Challenges
+
+1. [Reverse String](https://github.com/hamidjavadi/javascript-challenges/tree/main/src/reverseString)
