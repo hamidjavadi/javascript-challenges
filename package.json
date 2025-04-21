@@ -1,0 +1,14 @@
+{
+  "name": "javascript-test",
+  "version": "1.0.0",
+  "description": "A repository for javascript algorithm and code challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Hamid Javadi",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
