@@ -1,2 +1,27 @@
 # javascript-challenges
+
 A repository for JavaScript code challenges
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+or
+
+```bash
+yarn
+```
+
+### Run test and see result
+
+```bash
+npm run test
+```
+
+or
+
+```bash
+yarn test
+```
