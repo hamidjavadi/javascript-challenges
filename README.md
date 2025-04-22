@@ -29,3 +29,4 @@ yarn test
 ### Challenges
 
 1. [Reverse String](https://github.com/hamidjavadi/javascript-challenges/tree/main/src/reverseString)
+2. [Count Vowels](https://github.com/hamidjavadi/javascript-challenges/tree/main/src/countVowels)
