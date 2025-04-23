@@ -32,3 +32,4 @@ yarn test
 2. [Palindrome String](https://github.com/hamidjavadi/javascript-challenges/tree/main/src/isPalindrome)
 3. [Count Vowels](https://github.com/hamidjavadi/javascript-challenges/tree/main/src/countVowels)
 4. [Find Max](https://github.com/hamidjavadi/javascript-challenges/tree/main/src/findMax)
+5. [Find Max Big(O) Focus](https://github.com/hamidjavadi/javascript-challenges/tree/main/src/findMaxBigO)
