@@ -34,3 +34,4 @@ yarn test
 4. [Find Max](https://github.com/hamidjavadi/javascript-challenges/tree/main/src/findMax)
 5. [Find Max Big(O) Focus](https://github.com/hamidjavadi/javascript-challenges/tree/main/src/findMaxBigO)
 6. [Flatten Array Recursive Approach](https://github.com/hamidjavadi/javascript-challenges/tree/main/src/flattenArray)
+7. [Remove Duplicates](https://github.com/hamidjavadi/javascript-challenges/tree/main/src/removeDuplicates)
